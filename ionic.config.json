@@ -1,5 +1,7 @@
 {
   "name": "ionic-exercicio-05-camera",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
